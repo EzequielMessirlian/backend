@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "estructura base + movido a src"
+git add .
+git commit -m "implemento DTO y endpoint /current"
+git add .
+git commit -m "middleware por rol"
+git add .
+git commit -m "lógica de compra y tickets"
+git add .
+git commit -m "recuperación de contraseña por token"

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "adm1",
+    "first_name": "Admin",
+    "last_name": "Demo",
+    "email": "admin@example.com",
+    "password": "$2b$12$OQ2q4XZ9HhSQFwWQAafH0.07WKaIPWhvd7TDAjJUDdubEV5kioDLW",
+    "role": "admin"
+  },
+  {
+    "id": "usr1",
+    "first_name": "User",
+    "last_name": "Demo",
+    "email": "user@example.com",
+    "password": "$2b$12$3kLxFt95p.YZF7E3XrHGR.mr3fxPTGD1hzmfbnW.qqxSTBxpxLcnm",
+    "role": "user"
+  }
+]
